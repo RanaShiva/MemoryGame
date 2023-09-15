@@ -1,4 +1,4 @@
 # MemoryGame
-Created a memory game while following a youtube tutorial
-Play the game yourself:
+Created a memory game while following a youtube tutorial<br>
+Play the game yourself:<br>
 https://ranashiva.github.io/MemoryGame/
